@@ -13,12 +13,12 @@ To build the project:
 For the graph stored in input.dat
 For example:
 
-0,1,2
-1,2
-2,3,4
-3,1,5
-4,5
-5
+0,1,2</br>
+1,2</br>
+2,3,4</br>
+3,1,5</br>
+4,5</br>
+5</br>
 
 The graph is stored in linked_list format.
 It means that the node 0 has two edges from it. One edge points to node 1 and the other edge points to node 2.
