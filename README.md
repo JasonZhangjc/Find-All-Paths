@@ -23,7 +23,7 @@ For example:</br>
 The graph is stored in linked_list format.</br>
 It means that the node 0 has two edges from it. One edge points to node 1 and the other edge points to node 2.</br>
 The node 1 has only one edge from it. The edge points to node 2.</br>
-...
+...</br>
 The node 5 has no edge from it.</br>
 
 As a result, if we select 0 as the source and 5 as the destination, there are four paths in total:</br>
